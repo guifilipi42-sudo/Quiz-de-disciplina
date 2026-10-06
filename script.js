@@ -1,7 +1,3 @@
-```javascript
-// ========================================
-// ARRAY DE PERGUNTAS
-// ========================================
 
 const perguntas = [
 
@@ -397,4 +393,3 @@ restartButton.addEventListener("click", () => {
 // ========================================
 
 mostrarPergunta();
-```
